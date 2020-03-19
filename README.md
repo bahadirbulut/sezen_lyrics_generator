@@ -1,4 +1,4 @@
-# Sezen Aksu style song lyrics generator
+# Sezen Aksu style lyrics generator
 Simple LSTM model using tensorflow to generate song lyrics in Sezen Aksu style.
 
 
