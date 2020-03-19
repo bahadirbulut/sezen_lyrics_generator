@@ -56,7 +56,7 @@ based on your desired starting sentence.<br>
 <br> 
 I have used:<br>
 - n1-standard-4 (4 vCPUs, 15 GB memory) with 1 x NVIDIA Tesla K80 GPU.</i>
-<br><br>
+
 You can try with different configurations for the VM or different configurations
 for the model as well. Let me know about your results. 
 
