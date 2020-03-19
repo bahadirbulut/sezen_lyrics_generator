@@ -64,5 +64,5 @@ for the model as well. Let me know about your results.
 ## Model files
 [You can download the model in h5 format here](https://drive.google.com/file/d/1qOGe9EAeoEwB8ivYBkueSLNs8-kpEdce/view?usp=sharing)
 
-[You can download the full model as tensorflow model file here](https://drive.google.com/drive/folders/1AuFWe34rCCKuJyK4nRy3X7q4JE2OfP7B?usp=sharing)
+[You can download the full model as tensorflow model file here](https://drive.google.com/file/d/1i9T9Y3lzaTxGMd9JDVppWEjP3VWeULCk/view?usp=sharing)
 
